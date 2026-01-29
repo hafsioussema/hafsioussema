@@ -1,16 +1,49 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**hafsioussema/hafsioussema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Oussema Hafsi
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student
+📱 Mobile Software Engineer
+🚀 Passionate about Flutter, Swift (SwiftUI), Kotlin (Jetpack Compose), Automation, Blockchain & AI, IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Mobile Development
+
+Languages & Frameworks: Swift (SwiftUI), Kotlin (Jetpack Compose), Flutter, FlutterFlow
+
+Practices: CI/CD for mobile apps, automated testing & QA, Mobile UI/UX design
+
+🖥 Back-End Development
+
+Languages & Frameworks: TypeScript (NestJS), Node.js (Express), PHP (Symfony), Java (Spring Boot), .NET
+
+Skills: RESTful APIs development and integration
+
+🌐 Front-End Development
+
+Technologies: Next.js, Bootstrap, Twig, CSS3, JavaScript (ES6)
+
+⛓ Blockchain
+
+Technologies: Solidity (learning), Hardhat
+
+🗄 Databases
+
+MongoDB, Redis, MySQL, Oracle, Firebase
+
+🛠 Tools & Technologies
+
+DevOps: Docker, GitHub Actions, Fly.io
+
+Real-time: Socket.IO, WebSockets
+
+Security: OAuth2, JWT
+
+Tools: GitHub, Postman, Swagger, Linux, Windows, MacOS
+
+Design: Figma, Adobe Suite
+
+Electronics: Arduino
+
+⚡ Fun Fact
+
+I love exploring the intersection between software, hardware, and AI, and I enjoy building innovative mobile applications that solve real-world problems.
