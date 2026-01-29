@@ -74,3 +74,12 @@ Electronics: Arduino
 ⚡ Fun Fact
 
 I love exploring the intersection between software, hardware, and AI, and I enjoy building innovative mobile applications that solve real-world problems.
+
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hafsi-oussema&show_icons=true&theme=radical" />
+</p>
+
