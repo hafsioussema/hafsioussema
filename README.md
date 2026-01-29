@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=ethereum&logoColor=white" />
+</p>
+
+
+
+
+
+
+
 Hi there 👋
 
 I'm Oussema Hafsi
