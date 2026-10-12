@@ -1,36 +1,53 @@
-Hi there 👋
+# Hi, I'm Oussema Hafsi 👋
 
-👋 Hi, I'm Oussema Hafsi
+**Software Engineering Student at ESPRIT | Mobile, Backend & Full-Stack Development**
 
-🎓 Computer Engineering Student
-📱 Mobile Software Engineer
-🚀 Passionate about Flutter, Swift (SwiftUI), Kotlin (Jetpack Compose), Automation, Blockchain & AI, IoT
+I build mobile and web applications, backend services, and software products that connect practical user experiences with reliable APIs. My main interests are mobile engineering, backend architecture, AI-powered applications, and automation.
 
-💻 Mobile Development
-<p align="center"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/FlutterFlow-5D1CFA?style=for-the-badge&logo=flutter&logoColor=white" /> </p>
+- 🎓 Software Engineering — ESPRIT, Tunisia
+- 📱 Mobile: Flutter, SwiftUI, Kotlin, Jetpack Compose
+- ⚙️ Backend: NestJS, Node.js, Express, Spring Boot, Symfony, .NET
+- 🌐 Web: Next.js, React, TypeScript, JavaScript
+- 🗄️ Data: PostgreSQL, MongoDB, MySQL, Redis, Firebase
+- 🧰 Engineering: REST APIs, WebSockets, OAuth 2.0/JWT, Docker, GitHub Actions
+- 🔎 Currently interested in mobile engineering, scalable backend systems, and AI-enabled products
 
-Practices: CI/CD for mobile apps, automated testing & QA, Mobile UI/UX design
+## Tech Stack
 
-🖥 Back-End Development
-<p align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Symfony-Black?style=for-the-badge&logo=symfony&logoColor=white" /> <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> </p>
+**Mobile**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 
-Skills: RESTful APIs development, integration, microservices
+**Web & Backend**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-🌐 Front-End Development
-<p align="center"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Twig-30CFCF?style=for-the-badge&logo=twig&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
-⛓ Blockchain
-<p align="center"> <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/Hardhat-FF6C37?style=for-the-badge&logo=hardhat&logoColor=white" /> </p>
+**Data & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-Technologies: Solidity (learning), Hardhat
+## Selected Public Repositories
 
-🗄 Databases
-<p align="center"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> </p>
-🛠 Tools & Technologies
-<p align="center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Fly.io-4B4BFF?style=for-the-badge&logo=flyio&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" /> <img src="https://img.shields.io/badge/WebSockets-3C873A?style=for-the-badge" /> <img src="https://img.shields.io/badge/OAuth2-0A0A0A?style=for-the-badge" /> <img src="https://img.shields.io/badge/JWT-32325D?style=for-the-badge" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> </p>
-🌐 Connect with me
-<p align="center"> <a href="https://www.linkedin.com/in/oussema-hafsi-466a54270/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/hafsi_oussema/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hafsi-oussema&show_icons=true&theme=radical" /> </p>
-⚡ Fun Fact
+- [TILI-web](https://github.com/hafsioussema/TILI-web)
+- [TILI-api](https://github.com/hafsioussema/TILI-api)
 
-I love exploring the intersection between software, hardware, and AI, building innovative mobile applications that solve real-world problems.
+> Some projects are private or developed collaboratively. Public repositories are the best place to review code and documentation currently available.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/oussema-hafsi-466a54270/)
+- [GitHub](https://github.com/hafsioussema)
