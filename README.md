@@ -40,12 +40,20 @@ I build mobile and web applications, backend services, and software products tha
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## Selected Public Repositories
+## Selected Public Projects
 
-- [TILI-web](https://github.com/hafsioussema/TILI-web)
-- [TILI-api](https://github.com/hafsioussema/TILI-api)
+### [TILI Web](https://github.com/hafsioussema/TILI-web) · [TILI API](https://github.com/hafsioussema/TILI-api)
+A React/Vite frontend and NestJS REST API. The API repository documents JWT authentication, role-based access, account management, email workflows, and Swagger documentation.
 
-> Some projects are private or developed collaboratively. Public repositories are the best place to review code and documentation currently available.
+### [GamerApp](https://github.com/hafsioussema/GamerApplication)
+An Android UI project built with Kotlin and Jetpack Compose. Includes navigation and screens for sign-in, account recovery, gaming news, a game store, and a user profile.
+
+### [Student Management API](https://github.com/hafsioussema/oussemahafsi4sim3)
+A Java 17 and Spring Boot REST API project using Spring Data JPA, MySQL, and Springdoc OpenAPI.
+
+## Portfolio Notes
+
+I focus on building clear, maintainable applications across mobile, web, and backend development. Project documentation and demos will be expanded as each repository is prepared for public review.
 
 ## Connect
 
